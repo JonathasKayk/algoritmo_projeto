@@ -24,13 +24,8 @@ while True:
     sleep(2)
 
     print("qualquer coisa")
+    print("nada")
         
-
-
-
-  #git config --global user.email "you@example.com"
-  #git config --global user.name "Your Name"
-
 
 
 
