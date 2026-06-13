@@ -25,6 +25,7 @@ while True:
 
     print("qualquer coisa")
     print("nada")
+    print("terceira vez")
         
 
 
