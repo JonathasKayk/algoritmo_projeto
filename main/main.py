@@ -22,11 +22,14 @@ while True:
     else:
         print('[red]ERRO! Digite uma opção válida![/]')
     sleep(2)
+
+    print("qualquer coisa")
         
 
 
 
-
+  #git config --global user.email "you@example.com"
+  #git config --global user.name "Your Name"
 
 
 
