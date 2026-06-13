@@ -15,7 +15,9 @@ if not arquivoExiste(arq_adotante):
 while True:
     resposta = menu()
     if resposta == 1:
-        print("carai")
+        adicionar_animal()
+    elif resposta == 5:
+        lista_animais(arq_animais)
     elif resposta == 8:
         cabeçalho('Saindo so sistema... até logo!')
         break
@@ -23,10 +25,6 @@ while True:
         print('[red]ERRO! Digite uma opção válida![/]')
     sleep(2)
 
-    print("qualquer coisa")
-    print("nada")
-    print("terceira vez")
-        
 
 
 
